@@ -1,0 +1,15 @@
+# MacOS hidden files
+**/.DS_Store
+
+# VS Code settings
+.vscode
+
+# Playground
+/playground
+
+# Large data directory
+/data
+
+# Configuration and secret files
+/.env
+/secrets
